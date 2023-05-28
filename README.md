@@ -12,3 +12,5 @@ You can find the prompt template in the Assets\LangChainServer\server.py
 Please put your own ChatGPT API key in the script.
 
 I used the EpicSpaceBattleSimulator asset in the unity store as a placeholder for the combat systme. The folder is empty since you need to get it from the unity store.
+
+![alt text](https://github.com/TwilledWave/ShipGirlSimDemo1/blob/main/Screenshot.png?raw=true)
